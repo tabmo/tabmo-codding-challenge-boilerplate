@@ -1,4 +1,4 @@
-# tabmo-codding-challenge-boilerplate
+# tabmo-coding-challenge-cpp-skeleton
 
 ### Description
 This little boilerplate application compiles an HTTP server based on Drogon (https://github.com/an-tao/drogon).
